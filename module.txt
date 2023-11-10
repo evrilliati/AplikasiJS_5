@@ -1,0 +1,6 @@
+project-folder/
+  ├── app.js
+  ├── nameModule.js
+  ├── ageModule.js
+  ├── addressModule.js
+  ├── birthdataModule.js
